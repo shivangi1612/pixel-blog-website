@@ -71,22 +71,22 @@ export default function Footer() {
             <h3 className="font-bold mb-4 font-['Press_Start_2P'] text-primary text-sm">Connect</h3>
             <ul className="space-y-2">
               <li>
-                <Link href="#" className="hover:text-primary text-lg font-['VT323']">
-                  Twitter
+                <Link href="https://x.com/Shivang96741578?t=wKrF-E1SP3Bs70HJOfjGiw&s=08" className="hover:text-primary text-lg font-['VT323']">
+                  X
                 </Link>
               </li>
               <li>
-                <Link href="#" className="hover:text-primary text-lg font-['VT323']">
+                <Link href="https://github.com/shivangi1612" className="hover:text-primary text-lg font-['VT323']">
                   GitHub
                 </Link>
               </li>
               <li>
-                <Link href="#" className="hover:text-primary text-lg font-['VT323']">
-                  Discord
+                <Link href="https://www.linkedin.com/in/shivangisingh1612004?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="hover:text-primary text-lg font-['VT323']">
+                  Linkedln
                 </Link>
               </li>
               <li>
-                <Link href="mailto:hello@pixelwisdom.com" className="hover:text-primary text-lg font-['VT323']">
+                <Link href="mailto:shivangi.singh161204@gmail.com" className="hover:text-primary text-lg font-['VT323']">
                   hello@pixelwisdom.com
                 </Link>
               </li>
